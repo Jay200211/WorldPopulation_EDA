@@ -1,6 +1,6 @@
-🌍 World Population Exploratory Data Analysis (EDA)
+### 🌍 World Population Exploratory Data Analysis (EDA)
 
-📌 Project Overview
+### 📌 Project Overview
 
 This repository contains an **Exploratory Data Analysis (EDA)** project on world population data. The objective of this project is to analyze population trends across countries and years, uncover insights, and understand global demographic patterns.
 
