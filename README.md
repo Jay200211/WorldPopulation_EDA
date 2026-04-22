@@ -51,7 +51,6 @@ The dataset includes information about:
 
 ### 4. Exploratory Data Analysis
 
-* Summary statistics
 * Country-wise population comparison
 
 
